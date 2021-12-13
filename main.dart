@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
   List<int> x = [1, 2, 3, 4, 5];
 
